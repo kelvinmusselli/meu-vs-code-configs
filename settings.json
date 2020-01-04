@@ -8,6 +8,7 @@
         "terminal.foreground": "#00FD61",
         "terminal.background": "#000000",
     },
+    "editor.fontFamily":"Fira Code",
     "editor.fontLigatures": true,
     "editor.fontSize": 14,
     "editor.lineHeight": 20,
